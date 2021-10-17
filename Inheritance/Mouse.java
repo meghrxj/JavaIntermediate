@@ -1,3 +1,5 @@
+package Inheritance;
+
 public class Mouse {
 
     public static void leftClick(){
